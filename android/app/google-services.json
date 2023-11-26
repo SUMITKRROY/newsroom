@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241213592012",
+    "project_id": "flutter-project-947c5",
+    "storage_bucket": "flutter-project-947c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241213592012:android:0db958f61fdd540e790d69",
+        "android_client_info": {
+          "package_name": "com.example.newsbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5D2zcjNQ6L4y-I3YGmp-WIY32fi2z-Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
